@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- fetched from Tricky Addon - Update Target List -->
 <AndroidAttestation>
     <NumberOfKeyboxes>1</NumberOfKeyboxes>
     <Keybox DeviceID="sw">
