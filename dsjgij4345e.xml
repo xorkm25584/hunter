@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <AndroidAttestation>
     <NumberOfKeyboxes>1</NumberOfKeyboxes>
-    <Keybox DeviceID="20260612">
+    <Keybox DeviceID="Yurikey53. Join my group: t.me/yuriservice">
         <Key algorithm="ecdsa">
             <PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
-<!--https://t.me/yuriiroot-->
 MHcCAQEEICOd8gK7eF5g2diA0hdH8N5/ucVpF3Nto3xuU5yXNGqioAoGCCqGSM49
 AwEHoUQDQgAE6lXy73P+EknjegJdmuA07/wlu7RPC2CCam0Tiy60PvlOCsWSECTg
 8BwbTBIzZ2qgSv2nKumUWzrLpWpc0v8PBw==
@@ -15,7 +14,7 @@ AwEHoUQDQgAE6lXy73P+EknjegJdmuA07/wlu7RPC2CCam0Tiy60PvlOCsWSECTg
                 <NumberOfCertificates>3</NumberOfCertificates>
                 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/yuriiroot-->
+<!--1-->
 MIIB8zCCAXqgAwIBAgIRAJNp8u+IlBm41dacSVioZEEwCgYIKoZIzj0EAwIwOTEM
 MAoGA1UEDAwDVEVFMSkwJwYDVQQFEyAxMWRlZjVlMjVlOTBjZGVhY2ViNjUwYzZj
 YzkyNWJmMTAeFw0yMDA0MjgxODUyMDlaFw0zMDA0MjYxODUyMDlaMDkxDDAKBgNV
@@ -31,7 +30,7 @@ xKfNS9swrMrfuWp2br5L2b9TufK/1as=
                 </Certificate>
                 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/yuriiroot-->
+<!--1-->
 MIIDkzCCAXugAwIBAgIQbS6dRno28uOL1jMOAJztvzANBgkqhkiG9w0BAQsFADAb
 MRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTIwMDQyODE4NTEyNFoXDTMw
 MDQyNjE4NTEyNFowOTEMMAoGA1UEDAwDVEVFMSkwJwYDVQQFEyAxMWRlZjVlMjVl
@@ -56,7 +55,7 @@ Fv2AQqR3YA==
                 </Certificate>
                 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/yuriiroot-->
+<!--1-->
 MIIFHDCCAwSgAwIBAgIJANUP8luj8tazMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTkxMTIyMjAzNzU4WhcNMzQxMTE4MjAz
 NzU4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
@@ -92,7 +91,7 @@ ex0SdDrx+tWUDqG8At2JHA==
         <Key algorithm="rsa">
             <PrivateKey format="pem">
 -----BEGIN RSA PRIVATE KEY-----
-<!--https://t.me/yuriiroot-->
+<!--1-->
 MIIG4wIBAAKCAYEAu+QIhJj7aDTA01fBSB6UX3He4F+I892RZ6sA8SgBubNInrki
 WDdxOUZZA6O/qddxNuQVlaFWygQwKRabL2t4hueYTHyrvgzJyBWV6gStc1gjqvTo
 BAThO5Lq2NsQUs0Qe16UXxRwBPwdKbxckG4F/X03BNHVV0rDCep3tovLEgmdp/gt
@@ -234,4 +233,4 @@ ex0SdDrx+tWUDqG8At2JHA==
         </Key>
     </Keybox>
 </AndroidAttestation>
-<!--https://t.me/yuriiroot-->
+<!--1-->
