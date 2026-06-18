@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AndroidAttestation>
     <NumberOfKeyboxes>1</NumberOfKeyboxes>
-    <Keybox DeviceID="0618">
+    <Keybox DeviceID="Galaxy">
         <Key algorithm="ecdsa">
             <PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIMydAfHm3foVzmzD0xx1NUuVGoK28Vdwdso3IpPnIGoNoAoGCCqGSM49
@@ -216,7 +216,7 @@ jm6xNIrw2OocrDKsudk/okr/AwqEyPKw9WnMlQgLIKw1rODG2NvU9oR3GVGdMkUB
 ZutL8VuFkERQGt6vQ2OCw0sV47VMkuYbacK/xyZFiRcrPJPb41zgbQj9XAEyLKCH
 ex0SdDrx+tWUDqG8At2JHA==
 -----END CERTIFICATE-----
-</Certificate>
+             </Certificate>
             </CertificateChain>
         </Key>
     </Keybox>
